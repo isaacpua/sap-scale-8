@@ -1,0 +1,1 @@
+export { Card, CardHeader } from '@ui5/webcomponents-react';

@@ -1,0 +1,1 @@
+export { TabContainer, Tab, TabSeparator } from '@ui5/webcomponents-react';
