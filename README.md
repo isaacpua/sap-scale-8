@@ -33,4 +33,4 @@ This project is built with a modern, enterprise-focused tech stack:
 - TypeScript: For static typing and a better developer experience.
 - React: A JavaScript library for building user interfaces.
 - UI5 Web Components: A lightweight, enterprise-grade UI component library from SAP that implements the Fiori design system.
-- Tailwind CSS: A utility-first CSS framework for rapid UI development.
+- Tailwind CSS: A utility-first CSS framework for rapid UI development. 
